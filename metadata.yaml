@@ -25,6 +25,8 @@ description: "The Helmet of Navarre is a historical novel by American writer Ber
   \ Runkle published in 1901. It first appeared in serial form in the magazine The\
   \ Century Magazine in 1900. Later, she adapted the novel for the stage.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14219#The-Helmet-of-Navarre
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-11-30'
 gutenberg_type: Text
